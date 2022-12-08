@@ -1,5 +1,6 @@
 # Big-Data-Stream
-ATIVIDADE SOMATIVA 1: SPARK STREAMING
+ATIVIDADE SOMATIVA 1: SPARK STREAMING.
+
 Projeto de modernização
 O Ministério da Saúde está com uma emergência e necessita que sejam tomadas as medidas adequadas em 
 tempo hábil para combater a Covid-19. Devido aos sintomas mais comuns para casos positivos para 
@@ -31,8 +32,9 @@ Nome do campo Descrição
 2 dataInicioSintomas Data do início dos sintomas.
  
 
-Nome do campo Descrição
-3. dataNascimento Data de nascimento.
+Nome do campo Descrição. 
+
+3. dataNascimento Data de nascimento. 
 4. sintomas Sintomas do paciente.
 5. profissionalSaude Relacionado a profissional de saúde.
 6. cbo Ocupação.
@@ -94,4 +96,4 @@ Você foi contratado por uma empresa para modernizar a forma como o fluxo de dad
 Criar um tópico com duas partições, chamado s7projeto.
 Alimentar esse tópico com dois produtores. O primeiro produtor deve enviar as linhas do dataset da Covid-19, enquanto o segundo produtor deve enviar dados de clientes fake.
 Criar um consumidor em Python que leia as duas partições do tópico s7projeto. O resultado deve mostrar as linhas do dataset da Covid-19 e os dados de clientes fake no mesmo tópico.
-A entrega deve ser realizada no link indicado na semana 8.
+
