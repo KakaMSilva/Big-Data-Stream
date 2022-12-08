@@ -1,8 +1,5 @@
 # Big-Data-Stream
 ATIVIDADE SOMATIVA 1: SPARK STREAMING
-Olá, caro estudante! Como uma das formas de avaliar o conhecimento obtido até este momento, vamos 
-trabalhar com um projeto de modernização de uma demanda fictícia do Ministério da Saúde. Veja os detalhes 
-abaixo.
 Projeto de modernização
 O Ministério da Saúde está com uma emergência e necessita que sejam tomadas as medidas adequadas em 
 tempo hábil para combater a Covid-19. Devido aos sintomas mais comuns para casos positivos para 
@@ -34,7 +31,7 @@ o ./alimenta_stream.sh projeto (mantenha o comando executando)
 2 dataInicioSintomas Data do início dos sintomas
  
 
-# Nome do campo Descrição
+Nome do campo Descrição
 3 dataNascimento Data de nascimento
 4 sintomas Sintomas do paciente
 5 profissionalSaude Relacionado a profissional de saúde
@@ -67,7 +64,7 @@ o ./alimenta_stream.sh projeto (mantenha o comando executando)
 32 classificacaoFinal Avaliação final do caso
 
 
-# Informações a ser extraídas
+Informações a ser extraídas
 1. Quantidade de pacientes positivos para coronavírus no último minuto e atualização a cada 30 segundos 
 (resultadoTeste).
 3. Quantidade de pacientes de acordo com o sexo e o resultado do teste nos últimos 50 segundos e atualização 
