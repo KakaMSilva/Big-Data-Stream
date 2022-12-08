@@ -32,36 +32,36 @@ Nome do campo Descrição
  
 
 Nome do campo Descrição
-3 dataNascimento Data de nascimento.
-4 sintomas Sintomas do paciente.
-5 profissionalSaude Relacionado a profissional de saúde.
-6 cbo Ocupação.
-7 condicoes Condições do paciente.
-8 estadoTeste Estado do teste.
-9 dataTeste Data do teste.
-10 tipoTeste Tipo de teste realizado.
-11 resultadoTeste Resultado do teste.
-12 paisOrigem País de origem do paciente.
-13 sexo Sexo do paciente.
-14 bairro Bairro do paciente.
-15 estado Estado do paciente.
-16 estadoIBGE Estado do paciente IBGE.
-17 municipio Município do paciente.
-18 municipioIBGE Município do paciente IBGE.
-19 cep CEP.
-20 origem Origem do paciente.
-21 cnes Código da unidade de saúde.
-22 estadoNotificacao Estado da notificação.
-23 estadoNotificacaoIBGE Estado da notificação IBGE.
-24 municipioNotificacao Município da notificação.
-25 municipioNotificacaoIBGE Município da notificação IBGE.
-26 numeroNotificacao Número da notificação.
-27 excluido ID de exclusão.
-28 validado Local de validação.
-29 idade Idade do paciente.
-30 dataEncerramento Data do encerramento da avaliação do paciente.
-31 evolucaoCaso Evolução do caso do paciente.
-32 classificacaoFinal Avaliação final do caso.
+3. dataNascimento Data de nascimento.
+4. sintomas Sintomas do paciente.
+5. profissionalSaude Relacionado a profissional de saúde.
+6. cbo Ocupação.
+7. condicoes Condições do paciente.
+8. estadoTeste Estado do teste.
+9. dataTeste Data do teste.
+10. tipoTeste Tipo de teste realizado.
+11. resultadoTeste Resultado do teste.
+12. paisOrigem País de origem do paciente.
+13. sexo Sexo do paciente.
+14. bairro Bairro do paciente.
+15. estado Estado do paciente.
+16. estadoIBGE Estado do paciente IBGE.
+17. municipio Município do paciente.
+18. municipioIBGE Município do paciente IBGE.
+19. cep CEP.
+20. origem Origem do paciente.
+21. cnes Código da unidade de saúde.
+22. estadoNotificacao Estado da notificação.
+23. estadoNotificacaoIBGE Estado da notificação IBGE.
+24. municipioNotificacao Município da notificação.
+25. municipioNotificacaoIBGE Município da notificação IBGE.
+26. numeroNotificacao Número da notificação.
+27. excluido ID de exclusão.
+28. validado Local de validação.
+29. idade Idade do paciente.
+30. dataEncerramento Data do encerramento da avaliação do paciente.
+31. evolucaoCaso Evolução do caso do paciente.
+32. classificacaoFinal Avaliação final do caso.
 
 
 Informações a ser extraídas
